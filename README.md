@@ -15,7 +15,7 @@ Our plugin is basically, plug and play. If you’ve installed Gutenberg plugin, 
 
 Currently, we have 7 different blocks. We have carefully curated the blocks that has been missing from other  Gutenberg block plugins. 
 
-### [Gutenberg](https://wordpress.org/plugins/gutenberg/) Plugin is required to work with this Plugin. WordPress 5.0 will come with Gutenberg Editor in Core.
+### Gutenberg Plugin is required to work with this Plugin. WordPress 5.0 will come with Gutenberg Editor in Core.
 
 ### 17+ Easy Blocks and Counting
 Easy Blocks - Gutenberg Page Builder comes with 7 Blocks (Currently) to enhance your Gutenberg Editor Experience.
