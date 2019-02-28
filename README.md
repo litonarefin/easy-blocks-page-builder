@@ -1,4 +1,4 @@
-#  Easy Blocks for Gutenberg 
+#  Easy Blocks - Gutenberg Blocks Collection and Page Builder
 
 [![Easy Blocks for Gutenberg](https://img.youtube.com/vi/mu-heAQgUOk/maxresdefault.jpg)](https://www.youtube.com/embed/mu-heAQgUOk "Easy Blocks for Gutenberg")
 
